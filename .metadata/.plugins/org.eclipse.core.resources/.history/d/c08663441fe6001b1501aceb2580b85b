@@ -1,0 +1,24 @@
+
+import java.util.*;
+import java.util.Scanner;
+
+public class ArrayMax {
+		public void MaxElement() {
+			HashSet<Integer> hashset = new HashSet<>();
+			//Object[] arr = hashset.toArray();
+			
+			hashset.add(1);
+			hashset.add(62);
+			hashset.add(16);
+			hashset.add(7);
+			hashset.add(5);
+			
+			
+			
+			/*
+			 * System.out.println(hashset.get(3)); hashset.sort(Comparator.naturalOrder());
+			 * System.out.println(hashset);
+			 */
+			
+		}
+}
